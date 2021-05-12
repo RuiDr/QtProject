@@ -1,2 +1,2 @@
 # QtProject
-qt learing
+qt learning
